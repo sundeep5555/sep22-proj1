@@ -3,3 +3,5 @@ some change done by user01
 second line
 im rewriting a.txt
 adding some more lines
+user2 is updating the text
+second line
