@@ -1,3 +1,5 @@
 hello a.txt
 some change done by user01
 second line
+some changes in a.txt
+some more lines
